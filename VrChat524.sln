@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrChat524", "VrChat524.csproj", "{923687D6-6E27-C1E4-AA36-F91C20BA6AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrChat524.Editor", "VrChat524.Editor.csproj", "{AE524F42-B8DA-0562-5665-9E420D641730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923687D6-6E27-C1E4-AA36-F91C20BA6AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923687D6-6E27-C1E4-AA36-F91C20BA6AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923687D6-6E27-C1E4-AA36-F91C20BA6AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923687D6-6E27-C1E4-AA36-F91C20BA6AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE524F42-B8DA-0562-5665-9E420D641730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE524F42-B8DA-0562-5665-9E420D641730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE524F42-B8DA-0562-5665-9E420D641730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE524F42-B8DA-0562-5665-9E420D641730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
